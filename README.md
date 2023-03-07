@@ -2,6 +2,6 @@
 
 Connect four game or "Puissance Quatre".
 
-From the Kotlin Basics course on Hyperskill.org.
+From the Kotlin Basics track on Hyperskill.org.
 
 https://hyperskill.org/tracks/18
